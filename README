@@ -1,0 +1,5 @@
+Bourse simulation code, for a competition with Joel and others ... Which is not ready, mainly because I am not satisfied with the prediction skill...
+It was written in 2011 or 2012.
+
+Output file, HuziyOleksandr.csv, contains number of items of each type and the amount of money left at the end of the simulation.
+
